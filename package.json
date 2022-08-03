@@ -1,0 +1,13 @@
+{
+  "name": "showcase-sanity-mux-react-native-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:app:ios": "pnpm run --filter app start:ios",
+    "start:app:web": "pnpm run --filter app start:web"
+  },
+  "keywords": [],
+  "author": "Formidable Labs <hello@formidable.com>",
+  "license": "MIT"
+}
