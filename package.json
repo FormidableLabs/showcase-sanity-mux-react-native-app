@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "run-build": "pnpm run --filter app run-build",
     "start:app:ios": "pnpm run --filter app start:ios",
     "start:app:web": "pnpm run --filter app start:web"
   },
