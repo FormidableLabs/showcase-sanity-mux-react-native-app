@@ -42,6 +42,7 @@
     "workbox-streams": "^5.1.4"
   },
   "scripts": {
+    "run-build": "pnpm run build",
     "start:web": "react-scripts start",
     "start:ios": "ionic capacitor run ios -l",
     "build": "react-scripts build",
